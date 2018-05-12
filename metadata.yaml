@@ -1,0 +1,35 @@
+_repo: The-Awakening-of-Spring--A-Tragedy-of-Childhood_35242
+_version: 0.1.0
+alternative_title: Frühlings Erwachen. English
+contributor:
+  translator:
+    agent_name: Ziegler, Francis J. (Francis Joseph)
+    birthdate: 1866
+    gutenberg_agent_id: '37552'
+    url: http://www.gutenberg.org/2009/agents/37552
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wedekind, Frank
+    alias: Wedekind, Benjamin Franklin
+    birthdate: 1864
+    deathdate: 1918
+    gutenberg_agent_id: '34080'
+    url: http://www.gutenberg.org/2009/agents/34080
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Wedekind
+description: ''
+gutenberg_issued: '2011-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35242'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German drama -- Translations into English'
+title: 'The Awakening of Spring: A Tragedy of Childhood'
+url: http://www.gutenberg.org/ebooks/35242
